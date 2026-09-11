@@ -9,7 +9,7 @@ machine learning and text classification techniques.
 
 ### Dataset
 
-SMS Spam Collection Dataset.
+You can access the dataset used in this project from [Kaggle](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset).
 
 ### Technologies Used
 
