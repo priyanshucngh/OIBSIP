@@ -9,7 +9,7 @@ using machine learning regression techniques.
 
 ### Dataset
 
-You can access the dataset used in this project from [Kaggle]([https://www.kaggle.com/your-dataset-link-here](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho).
+You can access the dataset used in this project from [Kaggle](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho).
 
 ### Technologies Used
 
