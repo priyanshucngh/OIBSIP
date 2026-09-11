@@ -6,7 +6,7 @@
 The objective of this project is to analyze unemployment rate data, identify key trends, and understand the economic impact of events like the COVID-19 pandemic using data visualization techniques.
 
 ### Dataset
-Unemployment in India Dataset (containing unemployment rates, area type, and temporal data across different states).
+You can access the dataset used in this project from [Kaggle](https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india).
 
 ### Technologies Used
 - Python
