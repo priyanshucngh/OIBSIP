@@ -8,7 +8,7 @@ This repository contains the completed tasks for the **Oasis Infobyte Data Scien
 ## 📂 Repository Structure & Tasks Summary
 
 ### Task 1: Iris Flower Classification
-- **Directory:** `DataScience-Task1-IrisClassification`
+- **Directory:** `DataScience-Task1-IrisFlowerClassification`
 - **Objective:** Classify iris flowers into Setosa, Versicolor, and Virginica species using ML models.
 - **Key Concepts:** Classification, Exploratory Data Analysis, Model Evaluation.
 
