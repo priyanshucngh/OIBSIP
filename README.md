@@ -223,6 +223,8 @@ Model Comparison
       ↓
 Prediction & Interpretation
 
+---
+
 # 📋 Projects Summary
 
 | Task | Project | Domain | Major Techniques |
@@ -236,6 +238,8 @@ Prediction & Interpretation
 # 🎯 Key Learning Outcomes
 
 Through these five projects, I gained practical experience in developing end-to-end Data Science and Machine Learning workflows.
+
+---
 
 ### Key areas strengthened:
 
