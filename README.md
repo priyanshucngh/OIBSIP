@@ -28,7 +28,7 @@ Built a Machine Learning classification model to classify Iris flowers into diff
 **Technologies:**  
 Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
 
-📁 **Project:** [`Task 1 — Iris Flower Classification`](./Task-1)
+📁 **Project:** [`DataScience-Task1-IrisFlowerClassification`](./Task-1)
 
 ---
 
