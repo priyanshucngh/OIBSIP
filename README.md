@@ -28,7 +28,7 @@ Built a Machine Learning classification model to classify Iris flowers into diff
 **Technologies:**  
 Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
 
-📁 **Project:** [`DataScience-Task1-IrisFlowerClassification`](./Task-1)
+📁 **Project:** [`Task 1 — Iris Flower Classification`](./DataScience-Task1-IrisFlowerClassification)
 
 ---
 
@@ -50,7 +50,7 @@ Analyzed unemployment data to understand regional and temporal patterns and exam
 **Technologies:**  
 Python | Pandas | NumPy | Matplotlib | Seaborn | Jupyter Notebook
 
-📁 **Project:** [`Task 2 — Unemployment Analysis`](./Task-2)
+📁 **Project:** [`Task 2 — Unemployment Analysis`](./DataScience-Task2-UnemployentAnalysis)
 
 ---
 
@@ -76,7 +76,7 @@ Developed a Machine Learning regression workflow to predict used-car selling pri
 **Technologies:**  
 Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | Jupyter Notebook
 
-📁 **Project:** [`Task 3 — Car Price Prediction`](./Task-3)
+📁 **Project:** [`Task 3 — Car Price Prediction`](./DataScience-Task3-CarPricePrediction)
 
 ---
 
@@ -102,7 +102,7 @@ Built an NLP-based Machine Learning model to classify messages as **Spam** or **
 **Technologies:**  
 Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | NLP | TF-IDF | Jupyter Notebook
 
-📁 **Project:** [`Task 4 — Email Spam Detection`](./Task-4)
+📁 **Project:** [`Task 4 — Email Spam Detection`](./DataScience-Task4-EmailSpamDetection)
 
 ---
 
@@ -132,7 +132,7 @@ Developed an end-to-end Machine Learning regression workflow to analyze the rela
 **Technologies:**  
 Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | Jupyter Notebook
 
-📁 **Project:** [`Task 5 — Sales Prediction`](./Task-5)
+📁 **Project:** [`Task 5 — Sales Prediction`](./DataScience-Task5-SalesPrediction)
 
 ---
 
